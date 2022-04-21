@@ -27,7 +27,7 @@ html {
 }
 
 .header {
-    height: 90vh;
+    height: 110vh;
     width: 100%;
     padding: 15px;
     background:  url("images/bg-hero-mobile.svg"), var(--Pale-Cyan);
@@ -135,7 +135,7 @@ html {
 .footer__secondary {
     position: absolute;
     width: 90%;
-    height: 15vh;
+    height: 20vh;
     padding: 20px;
     border-radius: 15px;
     z-index: 200;
@@ -145,7 +145,7 @@ html {
 }
 
 .secondary__text--primary {
-    font-size: 1rem;
+    font-size: .8rem;
     text-align: center;   
 }
 
