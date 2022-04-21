@@ -56,7 +56,6 @@ html {
 
 .header__text-box {
     padding: 10px;
-    /* width: 90%; */
     text-align: center;
 }
 
@@ -173,7 +172,7 @@ html {
 }
 
 .contact__info__text {
-    margin-left: 20px;   ;
+    margin-left: 20px;
 }
 
 .more-info {
