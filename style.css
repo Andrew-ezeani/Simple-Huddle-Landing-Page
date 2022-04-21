@@ -27,7 +27,7 @@ html {
 }
 
 .header {
-    height: 120vh;
+    height: 140vh;
     width: 100%;
     padding: 15px;
     background:  url("images/bg-hero-mobile.svg"), var(--Pale-Cyan);
