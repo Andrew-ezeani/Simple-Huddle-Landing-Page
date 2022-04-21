@@ -52,7 +52,6 @@ html {
     border-radius: 30px;
     text-transform: capitalize;
     box-shadow: var(--box-shadow-1);
-    /* box-shadow: 0 3px 6px rgba(0, 0, 0, .2); */
 }
 
 .header__text-box {
@@ -229,7 +228,6 @@ html {
 
     .header__image {
         width: 55%;
-        /* margin-left: 10px; */
         
     }   
 
@@ -351,7 +349,4 @@ html {
     .social-media {
         width: 100%;
     }
-
-    
-
 }
