@@ -27,7 +27,7 @@ html {
 }
 
 .header {
-    height: 140vh;
+    height: 100vh;
     width: 100%;
     padding: 15px;
     background:  url("images/bg-hero-mobile.svg"), var(--Pale-Cyan);
@@ -216,7 +216,7 @@ html {
 @media (min-width: 900px) {
     .header {
         padding: 40px;
-        height: 140vh;
+        height: 120vh;
         background:  url("images/bg-hero-desktop.svg"), var(--Pale-Cyan);
     }
     
